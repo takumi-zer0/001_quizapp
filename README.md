@@ -1,3 +1,9 @@
+My 100 Days Project from codedamn
+
+there are bugs here and there but this was as far as i could get in 5 days...
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
